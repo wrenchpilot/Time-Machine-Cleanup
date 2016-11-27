@@ -1,5 +1,5 @@
 #!/bin/zsh
-# -*- coding: utf-8; tab-width: 2; indent-tabs-mode: nil; sh-basic-offset: 2; sh-indentation: 2; -*- vim:fenc=utf-8:et:sw=2:ts=2:sts=2
+# -*- vim:fenc=utf-8:et:sw=2:ts=2:sts=2
 #
 # Copyright (C) 2016, Enrico M. Crisostomo
 #
@@ -229,3 +229,13 @@ case ${EXECUTION_MODE} in
     exit 4
     ;;
 esac
+
+# Local variables:
+# coding: utf-8
+# mode: sh
+# eval: (sh-set-shell "zsh")
+# tab-width: 2
+# indent-tabs-mode: nil
+# sh-basic-offset: 2
+# sh-indentation: 2
+# End:
