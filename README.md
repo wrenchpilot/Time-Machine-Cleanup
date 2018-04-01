@@ -118,8 +118,11 @@ Requirements
 ------------
 
 To use the dialog-based interface, `dialog` is required.
+
 autogen
+
 automake
+
 
 Bug Reports
 -----------
