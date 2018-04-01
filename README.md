@@ -98,6 +98,7 @@ always be found using the [latest] tag.
 Once a release tarball has been downloaded and uncompressed, this package can be
 installed using the following commands:
 
+    $ autogen
     $ ./configure
     $ sudo make install
 
@@ -116,9 +117,9 @@ command:
 Requirements
 ------------
 
-Since a compatible version of Zsh is bundled with OS X, the command-line
-interface of this script has no other requirements.  To use the dialog-based
-interface, `dialog` is required.
+To use the dialog-based interface, `dialog` is required.
+autogen
+automake
 
 Bug Reports
 -----------
